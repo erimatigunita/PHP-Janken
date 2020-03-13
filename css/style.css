@@ -1,0 +1,64 @@
+/* 全体 */
+* {
+  box-sizing: border-box;
+}
+
+/* この下から記述 */
+
+body{
+    background-color: #CC3399;
+}
+h1{
+    margin-top: 30px;
+    clip-path: polygon(44% 13%, 90% 49%, 70% 62%, 33% 81%, 34% 49%);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding-bottom: 70px;
+    font-weight: bold;
+    font-size: 15px;
+}
+h3{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size:20px;
+}
+p.result-word{
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+p {
+    display: block;
+    margin-block-start: 79px;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+form{
+    text-align: center;
+}
+.battle-button{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-color: #FFE4E1;
+    font-size: 15px;
+    padding: 20px 20px 20px;
+    font-weight: bold;
+    border-color: #FFE4E1;
+}
+.red{
+    background-color: #FFE4E1;
+    color: black;
+    padding: 20px 20px 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 50px;
+}
+.result-box{
+    text-align: center;
+}
+a{
+    margin-top: 100px;
+}
